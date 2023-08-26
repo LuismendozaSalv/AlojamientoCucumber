@@ -1,0 +1,9 @@
+{
+  "titulo": "${titulo}",
+  "descripcion": "${descripcion}",
+  "precio":"${precio}",
+  "tipoPropiedad": "${tipoPropiedad}",
+  "personas": "${personas}",
+  "camas": "${camas}",
+  "habitaciones": "${habitaciones}"
+}
